@@ -27,7 +27,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Facebook Badge](https://img.shields.io/badge/-ZiKyou-blue?style=plastic&logo=Facebook&logoColor=white&link=https:https://www.facebook.com/profile.php?id=100069764871207)](https://www.facebook.com/profile.php?id=100069764871207)
-[![Telegram Badge](https://img.shields.io/badge/-@ZiKyou-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZiKyou "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-ZiKyou-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ZiKyou "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-ZiKyou-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/zikyoucz/)](https://www.instagram.com/zikyoucz/)
 
 
